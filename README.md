@@ -2,7 +2,7 @@
 
 Rushes are small projects of the 42-school. In Rushes, you have 48 hours to finish the project. 
 
-## Libunit - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `[110/100]`
+## Libunit [110/100] [[subject]](https://github.com/mdubus/Rushes/blob/master/libunit/libunit.fr.pdf)
 
 Build your own Micro-Framework for unit-tests !
 
