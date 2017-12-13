@@ -1,0 +1,7 @@
+:5,7m 2<ENTER>
+e a ' ' <ESC>
+17G e .
+3j l D
+=gg
+fn f1
+ZZ
