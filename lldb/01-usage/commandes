@@ -1,0 +1,16 @@
+breakpoint set --line 16
+breakpoint set --line 19 --one-shot
+breakpoint set --line 32
+breakpoint set --line 44
+process launch
+expr $rsi -= 4
+thread continue
+thread continue
+expr $rsi += 4
+thread continue
+expr count = 0
+thread continue
+expr tmp = (min[0] + min[1] + min[2])
+thread continue
+expr if (min[0] >= min[1] && min[0] >= min[2]) { biggest = min[0]; } else if (min[1] >= min[2] ) { biggest = min[1]; } else { biggest = min[2]; }
+thread continue
