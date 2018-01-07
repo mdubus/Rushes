@@ -6,8 +6,6 @@ Rushes are small projects of the 42-school. In Rushes, you have 48 hours to fini
 
 Code your own 2048 game on a terminal with the ncurses Library !
 
-I made this rush alone because of a ghost teammate. 
-
 ### Installation
 
 `make`
