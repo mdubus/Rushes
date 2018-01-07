@@ -5,6 +5,7 @@ Rushes are small projects of the 42-school. In Rushes, you have 48 hours to fini
 ## Wrong Kar Wai (2048) [[subject]](https://github.com/mdubus/Rushes/blob/master/wrong_kar_wai_2048/2048_game_subject.pdf) [xxx/100] 
 
 Code your own 2048 game on a terminal with the ncurses Library !
+
 I made this rush alone because of a ghost teammate. 
 
 ### Installation
