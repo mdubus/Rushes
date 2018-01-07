@@ -6,6 +6,8 @@ Rushes are small projects of the 42-school. In Rushes, you have 48 hours to fini
 
 Code your own 2048 game on a terminal with the ncurses Library !
 
+![alt text](https://github.com/mdubus/Rushes/blob/master/wrong_kar_wai_2048/img/2048-game.png)
+
 ### Installation
 
 `make`
@@ -25,6 +27,7 @@ Move the numbers with the arrow keys of your keyboad. You must reach the value 2
 If you want a lower win value, just edit the 'WIN_VALUE' in './includes/rush.h'
 You can restart the game with key 'r'
 You can go back to main menu with key 'm'
+
 
 ## Libunit [[subject]](https://github.com/mdubus/Rushes/blob/master/libunit/libunit.fr.pdf) [110/100] 
 
